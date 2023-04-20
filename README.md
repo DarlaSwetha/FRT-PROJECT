@@ -34,6 +34,154 @@ This is a web based application developed for Lifestyle related Restorant based 
 
 
 
+### Home -
+
+
+
+
+
+
+
+
+
+
+
+
+### About -
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Services -
+
+
+
+
+
+
+
+
+
+
+### Menu -
+
+
+
+
+
+
+
+
+
+
+### Pages -
+
+
+
+
+
+
+
+
+
+### Booking -
+
+
+
+
+
+
+
+
+
+### Our Team -
+
+
+
+
+
+
+
+
+
+
+### Testimonial -
+
+
+
+
+
+
+
+
+
+
+
+### Contact -
+
+
+
+
+
+
+
+
+
+### Health Bot -
+
+
+
+
+
+
+
+
+
+
+### Azure Static Web App -
+
+
+
+
+
+
+
+### Azure Health Bot -
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
